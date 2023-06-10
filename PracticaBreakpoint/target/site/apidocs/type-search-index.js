@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"practicabreakpoint","l":"EscribeFichero"},{"p":"practicabreakpoint","l":"FileScanner"},{"p":"practicabreakpoint","l":"LeerFichero"},{"p":"practicabreakpoint","l":"Pacientes"},{"p":"practicabreakpoint","l":"TratamientoFichero"},{"p":"practicabreakpoint","l":"Visitas"}];updateSearchResults();
